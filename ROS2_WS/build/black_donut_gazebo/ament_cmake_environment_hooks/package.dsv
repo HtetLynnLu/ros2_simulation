@@ -1,0 +1,4 @@
+source;share/black_donut_gazebo/local_setup.bash
+source;share/black_donut_gazebo/local_setup.dsv
+source;share/black_donut_gazebo/local_setup.sh
+source;share/black_donut_gazebo/local_setup.zsh

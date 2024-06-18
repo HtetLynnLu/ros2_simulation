@@ -1,0 +1,22 @@
+-- Install configuration: ""
+-- Up-to-date: /home/drmid/silmulation/ROS2_WS/install/black_donut_gazebo/share/black_donut_gazebo//config
+-- Up-to-date: /home/drmid/silmulation/ROS2_WS/install/black_donut_gazebo/share/black_donut_gazebo//config/gazebo_params.yaml
+-- Up-to-date: /home/drmid/silmulation/ROS2_WS/install/black_donut_gazebo/share/black_donut_gazebo//config/twist_mux.yaml
+-- Up-to-date: /home/drmid/silmulation/ROS2_WS/install/black_donut_gazebo/share/black_donut_gazebo//launch
+-- Up-to-date: /home/drmid/silmulation/ROS2_WS/install/black_donut_gazebo/share/black_donut_gazebo//launch/black_donut_sim_ros2_control.launch.py
+-- Up-to-date: /home/drmid/silmulation/ROS2_WS/install/black_donut_gazebo/share/black_donut_gazebo//launch/controller_spawner.launch.py
+-- Up-to-date: /home/drmid/silmulation/ROS2_WS/install/black_donut_gazebo/share/ament_index/resource_index/package_run_dependencies/black_donut_gazebo
+-- Up-to-date: /home/drmid/silmulation/ROS2_WS/install/black_donut_gazebo/share/ament_index/resource_index/parent_prefix_path/black_donut_gazebo
+-- Up-to-date: /home/drmid/silmulation/ROS2_WS/install/black_donut_gazebo/share/black_donut_gazebo/environment/ament_prefix_path.sh
+-- Up-to-date: /home/drmid/silmulation/ROS2_WS/install/black_donut_gazebo/share/black_donut_gazebo/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/drmid/silmulation/ROS2_WS/install/black_donut_gazebo/share/black_donut_gazebo/environment/path.sh
+-- Up-to-date: /home/drmid/silmulation/ROS2_WS/install/black_donut_gazebo/share/black_donut_gazebo/environment/path.dsv
+-- Up-to-date: /home/drmid/silmulation/ROS2_WS/install/black_donut_gazebo/share/black_donut_gazebo/local_setup.bash
+-- Up-to-date: /home/drmid/silmulation/ROS2_WS/install/black_donut_gazebo/share/black_donut_gazebo/local_setup.sh
+-- Up-to-date: /home/drmid/silmulation/ROS2_WS/install/black_donut_gazebo/share/black_donut_gazebo/local_setup.zsh
+-- Up-to-date: /home/drmid/silmulation/ROS2_WS/install/black_donut_gazebo/share/black_donut_gazebo/local_setup.dsv
+-- Up-to-date: /home/drmid/silmulation/ROS2_WS/install/black_donut_gazebo/share/black_donut_gazebo/package.dsv
+-- Up-to-date: /home/drmid/silmulation/ROS2_WS/install/black_donut_gazebo/share/ament_index/resource_index/packages/black_donut_gazebo
+-- Up-to-date: /home/drmid/silmulation/ROS2_WS/install/black_donut_gazebo/share/black_donut_gazebo/cmake/black_donut_gazeboConfig.cmake
+-- Up-to-date: /home/drmid/silmulation/ROS2_WS/install/black_donut_gazebo/share/black_donut_gazebo/cmake/black_donut_gazeboConfig-version.cmake
+-- Up-to-date: /home/drmid/silmulation/ROS2_WS/install/black_donut_gazebo/share/black_donut_gazebo/package.xml

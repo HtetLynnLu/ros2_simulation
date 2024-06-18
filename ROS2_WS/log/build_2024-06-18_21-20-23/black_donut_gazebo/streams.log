@@ -1,0 +1,26 @@
+[0.017s] Invoking command in '/home/drmid/silmulation/ROS2_WS/build/black_donut_gazebo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/drmid/silmulation/ROS2_WS/build/black_donut_gazebo -- -j4 -l4
+[0.052s] Invoked command in '/home/drmid/silmulation/ROS2_WS/build/black_donut_gazebo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/drmid/silmulation/ROS2_WS/build/black_donut_gazebo -- -j4 -l4
+[0.083s] Invoking command in '/home/drmid/silmulation/ROS2_WS/build/black_donut_gazebo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/drmid/silmulation/ROS2_WS/build/black_donut_gazebo
+[0.090s] -- Install configuration: ""
+[0.090s] -- Up-to-date: /home/drmid/silmulation/ROS2_WS/install/black_donut_gazebo/share/black_donut_gazebo//config
+[0.090s] -- Up-to-date: /home/drmid/silmulation/ROS2_WS/install/black_donut_gazebo/share/black_donut_gazebo//config/gazebo_params.yaml
+[0.090s] -- Up-to-date: /home/drmid/silmulation/ROS2_WS/install/black_donut_gazebo/share/black_donut_gazebo//config/twist_mux.yaml
+[0.090s] -- Up-to-date: /home/drmid/silmulation/ROS2_WS/install/black_donut_gazebo/share/black_donut_gazebo//launch
+[0.090s] -- Up-to-date: /home/drmid/silmulation/ROS2_WS/install/black_donut_gazebo/share/black_donut_gazebo//launch/black_donut_sim_ros2_control.launch.py
+[0.090s] -- Up-to-date: /home/drmid/silmulation/ROS2_WS/install/black_donut_gazebo/share/black_donut_gazebo//launch/controller_spawner.launch.py
+[0.090s] -- Up-to-date: /home/drmid/silmulation/ROS2_WS/install/black_donut_gazebo/share/ament_index/resource_index/package_run_dependencies/black_donut_gazebo
+[0.090s] -- Up-to-date: /home/drmid/silmulation/ROS2_WS/install/black_donut_gazebo/share/ament_index/resource_index/parent_prefix_path/black_donut_gazebo
+[0.090s] -- Up-to-date: /home/drmid/silmulation/ROS2_WS/install/black_donut_gazebo/share/black_donut_gazebo/environment/ament_prefix_path.sh
+[0.091s] -- Up-to-date: /home/drmid/silmulation/ROS2_WS/install/black_donut_gazebo/share/black_donut_gazebo/environment/ament_prefix_path.dsv
+[0.091s] -- Up-to-date: /home/drmid/silmulation/ROS2_WS/install/black_donut_gazebo/share/black_donut_gazebo/environment/path.sh
+[0.091s] -- Up-to-date: /home/drmid/silmulation/ROS2_WS/install/black_donut_gazebo/share/black_donut_gazebo/environment/path.dsv
+[0.091s] -- Up-to-date: /home/drmid/silmulation/ROS2_WS/install/black_donut_gazebo/share/black_donut_gazebo/local_setup.bash
+[0.091s] -- Up-to-date: /home/drmid/silmulation/ROS2_WS/install/black_donut_gazebo/share/black_donut_gazebo/local_setup.sh
+[0.091s] -- Up-to-date: /home/drmid/silmulation/ROS2_WS/install/black_donut_gazebo/share/black_donut_gazebo/local_setup.zsh
+[0.091s] -- Up-to-date: /home/drmid/silmulation/ROS2_WS/install/black_donut_gazebo/share/black_donut_gazebo/local_setup.dsv
+[0.091s] -- Installing: /home/drmid/silmulation/ROS2_WS/install/black_donut_gazebo/share/black_donut_gazebo/package.dsv
+[0.091s] -- Up-to-date: /home/drmid/silmulation/ROS2_WS/install/black_donut_gazebo/share/ament_index/resource_index/packages/black_donut_gazebo
+[0.091s] -- Up-to-date: /home/drmid/silmulation/ROS2_WS/install/black_donut_gazebo/share/black_donut_gazebo/cmake/black_donut_gazeboConfig.cmake
+[0.091s] -- Up-to-date: /home/drmid/silmulation/ROS2_WS/install/black_donut_gazebo/share/black_donut_gazebo/cmake/black_donut_gazeboConfig-version.cmake
+[0.091s] -- Up-to-date: /home/drmid/silmulation/ROS2_WS/install/black_donut_gazebo/share/black_donut_gazebo/package.xml
+[0.095s] Invoked command in '/home/drmid/silmulation/ROS2_WS/build/black_donut_gazebo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/drmid/silmulation/ROS2_WS/build/black_donut_gazebo

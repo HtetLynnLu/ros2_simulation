@@ -1,0 +1,36 @@
+-- Found ament_cmake: 1.3.8 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Found ament_lint_auto: 0.12.10 (/opt/ros/humble/share/ament_lint_auto/cmake)
+-- Added test 'flake8' to check Python code syntax and style conventions
+-- Added test 'lint_cmake' to check CMake code style
+-- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+-- Added test 'xmllint' to check XML markup files
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/drmid/silmulation/ROS2_WS/build/dshape_gazebo
+-- Install configuration: ""
+-- Installing: /home/drmid/silmulation/ROS2_WS/install/dshape_gazebo/share/dshape_gazebo//config
+-- Installing: /home/drmid/silmulation/ROS2_WS/install/dshape_gazebo/share/dshape_gazebo//config/gazebo_params.yaml
+-- Installing: /home/drmid/silmulation/ROS2_WS/install/dshape_gazebo/share/dshape_gazebo//config/twist_mux.yaml
+-- Installing: /home/drmid/silmulation/ROS2_WS/install/dshape_gazebo/share/dshape_gazebo//launch
+-- Installing: /home/drmid/silmulation/ROS2_WS/install/dshape_gazebo/share/dshape_gazebo//launch/dshape.launch.py
+-- Installing: /home/drmid/silmulation/ROS2_WS/install/dshape_gazebo/share/dshape_gazebo//launch/controller_spawner.launch.py
+-- Installing: /home/drmid/silmulation/ROS2_WS/install/dshape_gazebo/share/dshape_gazebo//rviz2
+-- Installing: /home/drmid/silmulation/ROS2_WS/install/dshape_gazebo/share/dshape_gazebo//rviz2/default.rviz
+-- Installing: /home/drmid/silmulation/ROS2_WS/install/dshape_gazebo/share/dshape_gazebo//rviz2/display.rviz
+-- Installing: /home/drmid/silmulation/ROS2_WS/install/dshape_gazebo/share/dshape_gazebo//maps
+-- Installing: /home/drmid/silmulation/ROS2_WS/install/dshape_gazebo/share/dshape_gazebo//maps/gz_ros2_control.png
+-- Up-to-date: /home/drmid/silmulation/ROS2_WS/install/dshape_gazebo/share/ament_index/resource_index/package_run_dependencies/dshape_gazebo
+-- Installing: /home/drmid/silmulation/ROS2_WS/install/dshape_gazebo/share/ament_index/resource_index/parent_prefix_path/dshape_gazebo
+-- Up-to-date: /home/drmid/silmulation/ROS2_WS/install/dshape_gazebo/share/dshape_gazebo/environment/ament_prefix_path.sh
+-- Installing: /home/drmid/silmulation/ROS2_WS/install/dshape_gazebo/share/dshape_gazebo/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/drmid/silmulation/ROS2_WS/install/dshape_gazebo/share/dshape_gazebo/environment/path.sh
+-- Installing: /home/drmid/silmulation/ROS2_WS/install/dshape_gazebo/share/dshape_gazebo/environment/path.dsv
+-- Up-to-date: /home/drmid/silmulation/ROS2_WS/install/dshape_gazebo/share/dshape_gazebo/local_setup.bash
+-- Up-to-date: /home/drmid/silmulation/ROS2_WS/install/dshape_gazebo/share/dshape_gazebo/local_setup.sh
+-- Up-to-date: /home/drmid/silmulation/ROS2_WS/install/dshape_gazebo/share/dshape_gazebo/local_setup.zsh
+-- Installing: /home/drmid/silmulation/ROS2_WS/install/dshape_gazebo/share/dshape_gazebo/local_setup.dsv
+-- Installing: /home/drmid/silmulation/ROS2_WS/install/dshape_gazebo/share/dshape_gazebo/package.dsv
+-- Up-to-date: /home/drmid/silmulation/ROS2_WS/install/dshape_gazebo/share/ament_index/resource_index/packages/dshape_gazebo
+-- Up-to-date: /home/drmid/silmulation/ROS2_WS/install/dshape_gazebo/share/dshape_gazebo/cmake/dshape_gazeboConfig.cmake
+-- Up-to-date: /home/drmid/silmulation/ROS2_WS/install/dshape_gazebo/share/dshape_gazebo/cmake/dshape_gazeboConfig-version.cmake
+-- Up-to-date: /home/drmid/silmulation/ROS2_WS/install/dshape_gazebo/share/dshape_gazebo/package.xml

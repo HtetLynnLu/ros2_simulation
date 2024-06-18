@@ -1,0 +1,16 @@
+-- Install configuration: ""
+-- Installing: /home/drmid/silmulation/ROS2_WS/install/dshape_gazebo/share/ament_index/resource_index/package_run_dependencies/dshape_gazebo
+-- Installing: /home/drmid/silmulation/ROS2_WS/install/dshape_gazebo/share/ament_index/resource_index/parent_prefix_path/dshape_gazebo
+-- Installing: /home/drmid/silmulation/ROS2_WS/install/dshape_gazebo/share/dshape_gazebo/environment/ament_prefix_path.sh
+-- Installing: /home/drmid/silmulation/ROS2_WS/install/dshape_gazebo/share/dshape_gazebo/environment/ament_prefix_path.dsv
+-- Installing: /home/drmid/silmulation/ROS2_WS/install/dshape_gazebo/share/dshape_gazebo/environment/path.sh
+-- Installing: /home/drmid/silmulation/ROS2_WS/install/dshape_gazebo/share/dshape_gazebo/environment/path.dsv
+-- Installing: /home/drmid/silmulation/ROS2_WS/install/dshape_gazebo/share/dshape_gazebo/local_setup.bash
+-- Installing: /home/drmid/silmulation/ROS2_WS/install/dshape_gazebo/share/dshape_gazebo/local_setup.sh
+-- Installing: /home/drmid/silmulation/ROS2_WS/install/dshape_gazebo/share/dshape_gazebo/local_setup.zsh
+-- Installing: /home/drmid/silmulation/ROS2_WS/install/dshape_gazebo/share/dshape_gazebo/local_setup.dsv
+-- Installing: /home/drmid/silmulation/ROS2_WS/install/dshape_gazebo/share/dshape_gazebo/package.dsv
+-- Installing: /home/drmid/silmulation/ROS2_WS/install/dshape_gazebo/share/ament_index/resource_index/packages/dshape_gazebo
+-- Installing: /home/drmid/silmulation/ROS2_WS/install/dshape_gazebo/share/dshape_gazebo/cmake/dshape_gazeboConfig.cmake
+-- Installing: /home/drmid/silmulation/ROS2_WS/install/dshape_gazebo/share/dshape_gazebo/cmake/dshape_gazeboConfig-version.cmake
+-- Installing: /home/drmid/silmulation/ROS2_WS/install/dshape_gazebo/share/dshape_gazebo/package.xml

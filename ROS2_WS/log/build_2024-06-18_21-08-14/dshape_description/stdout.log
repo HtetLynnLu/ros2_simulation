@@ -1,0 +1,27 @@
+-- Install configuration: ""
+-- Installing: /home/drmid/silmulation/ROS2_WS/install/dshape_description/share/dshape_description/config
+-- Installing: /home/drmid/silmulation/ROS2_WS/install/dshape_description/share/dshape_description/config/dshape_controller.yaml
+-- Installing: /home/drmid/silmulation/ROS2_WS/install/dshape_description/share/dshape_description/launch
+-- Installing: /home/drmid/silmulation/ROS2_WS/install/dshape_description/share/dshape_description/launch/description_ros2_control.launch.py
+-- Installing: /home/drmid/silmulation/ROS2_WS/install/dshape_description/share/dshape_description/urdf
+-- Installing: /home/drmid/silmulation/ROS2_WS/install/dshape_description/share/dshape_description/urdf/robot.urdf.xacro
+-- Installing: /home/drmid/silmulation/ROS2_WS/install/dshape_description/share/dshape_description/urdf/ros2_control.xacro
+-- Installing: /home/drmid/silmulation/ROS2_WS/install/dshape_description/share/dshape_description/urdf/dshape_core.xacro
+-- Installing: /home/drmid/silmulation/ROS2_WS/install/dshape_description/share/dshape_description/urdf/original.urdf
+-- Installing: /home/drmid/silmulation/ROS2_WS/install/dshape_description/share/dshape_description/urdf/lidar.xacro
+-- Installing: /home/drmid/silmulation/ROS2_WS/install/dshape_description/share/dshape_description/urdf/camera.xacro
+-- Installing: /home/drmid/silmulation/ROS2_WS/install/dshape_description/share/ament_index/resource_index/package_run_dependencies/dshape_description
+-- Installing: /home/drmid/silmulation/ROS2_WS/install/dshape_description/share/ament_index/resource_index/parent_prefix_path/dshape_description
+-- Installing: /home/drmid/silmulation/ROS2_WS/install/dshape_description/share/dshape_description/environment/ament_prefix_path.sh
+-- Installing: /home/drmid/silmulation/ROS2_WS/install/dshape_description/share/dshape_description/environment/ament_prefix_path.dsv
+-- Installing: /home/drmid/silmulation/ROS2_WS/install/dshape_description/share/dshape_description/environment/path.sh
+-- Installing: /home/drmid/silmulation/ROS2_WS/install/dshape_description/share/dshape_description/environment/path.dsv
+-- Installing: /home/drmid/silmulation/ROS2_WS/install/dshape_description/share/dshape_description/local_setup.bash
+-- Installing: /home/drmid/silmulation/ROS2_WS/install/dshape_description/share/dshape_description/local_setup.sh
+-- Installing: /home/drmid/silmulation/ROS2_WS/install/dshape_description/share/dshape_description/local_setup.zsh
+-- Installing: /home/drmid/silmulation/ROS2_WS/install/dshape_description/share/dshape_description/local_setup.dsv
+-- Installing: /home/drmid/silmulation/ROS2_WS/install/dshape_description/share/dshape_description/package.dsv
+-- Installing: /home/drmid/silmulation/ROS2_WS/install/dshape_description/share/ament_index/resource_index/packages/dshape_description
+-- Installing: /home/drmid/silmulation/ROS2_WS/install/dshape_description/share/dshape_description/cmake/dshape_descriptionConfig.cmake
+-- Installing: /home/drmid/silmulation/ROS2_WS/install/dshape_description/share/dshape_description/cmake/dshape_descriptionConfig-version.cmake
+-- Installing: /home/drmid/silmulation/ROS2_WS/install/dshape_description/share/dshape_description/package.xml

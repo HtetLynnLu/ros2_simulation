@@ -1,0 +1,9 @@
+/home/drmid/silmulation/ROS2_WS/build/black_donut_description/CMakeFiles/uninstall.dir
+/home/drmid/silmulation/ROS2_WS/build/black_donut_description/CMakeFiles/black_donut_description_uninstall.dir
+/home/drmid/silmulation/ROS2_WS/build/black_donut_description/CMakeFiles/test.dir
+/home/drmid/silmulation/ROS2_WS/build/black_donut_description/CMakeFiles/edit_cache.dir
+/home/drmid/silmulation/ROS2_WS/build/black_donut_description/CMakeFiles/rebuild_cache.dir
+/home/drmid/silmulation/ROS2_WS/build/black_donut_description/CMakeFiles/list_install_components.dir
+/home/drmid/silmulation/ROS2_WS/build/black_donut_description/CMakeFiles/install.dir
+/home/drmid/silmulation/ROS2_WS/build/black_donut_description/CMakeFiles/install/local.dir
+/home/drmid/silmulation/ROS2_WS/build/black_donut_description/CMakeFiles/install/strip.dir

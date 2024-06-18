@@ -1,0 +1,31 @@
+[0.019s] Invoking command in '/home/drmid/silmulation/ROS2_WS/build/dshape_gazebo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/drmid/silmulation/ROS2_WS/build/dshape_gazebo -- -j4 -l4
+[0.068s] Invoked command in '/home/drmid/silmulation/ROS2_WS/build/dshape_gazebo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/drmid/silmulation/ROS2_WS/build/dshape_gazebo -- -j4 -l4
+[0.092s] Invoking command in '/home/drmid/silmulation/ROS2_WS/build/dshape_gazebo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/drmid/silmulation/ROS2_WS/build/dshape_gazebo
+[0.096s] -- Install configuration: ""
+[0.096s] -- Up-to-date: /home/drmid/silmulation/ROS2_WS/install/dshape_gazebo/share/dshape_gazebo//config
+[0.096s] -- Up-to-date: /home/drmid/silmulation/ROS2_WS/install/dshape_gazebo/share/dshape_gazebo//config/gazebo_params.yaml
+[0.096s] -- Up-to-date: /home/drmid/silmulation/ROS2_WS/install/dshape_gazebo/share/dshape_gazebo//config/twist_mux.yaml
+[0.096s] -- Up-to-date: /home/drmid/silmulation/ROS2_WS/install/dshape_gazebo/share/dshape_gazebo//launch
+[0.096s] -- Up-to-date: /home/drmid/silmulation/ROS2_WS/install/dshape_gazebo/share/dshape_gazebo//launch/dshape.launch.py
+[0.096s] -- Up-to-date: /home/drmid/silmulation/ROS2_WS/install/dshape_gazebo/share/dshape_gazebo//launch/controller_spawner.launch.py
+[0.096s] -- Up-to-date: /home/drmid/silmulation/ROS2_WS/install/dshape_gazebo/share/dshape_gazebo//rviz2
+[0.096s] -- Up-to-date: /home/drmid/silmulation/ROS2_WS/install/dshape_gazebo/share/dshape_gazebo//rviz2/default.rviz
+[0.096s] -- Up-to-date: /home/drmid/silmulation/ROS2_WS/install/dshape_gazebo/share/dshape_gazebo//rviz2/display.rviz
+[0.096s] -- Up-to-date: /home/drmid/silmulation/ROS2_WS/install/dshape_gazebo/share/dshape_gazebo//maps
+[0.096s] -- Up-to-date: /home/drmid/silmulation/ROS2_WS/install/dshape_gazebo/share/dshape_gazebo//maps/gz_ros2_control.png
+[0.096s] -- Up-to-date: /home/drmid/silmulation/ROS2_WS/install/dshape_gazebo/share/ament_index/resource_index/package_run_dependencies/dshape_gazebo
+[0.096s] -- Up-to-date: /home/drmid/silmulation/ROS2_WS/install/dshape_gazebo/share/ament_index/resource_index/parent_prefix_path/dshape_gazebo
+[0.096s] -- Up-to-date: /home/drmid/silmulation/ROS2_WS/install/dshape_gazebo/share/dshape_gazebo/environment/ament_prefix_path.sh
+[0.096s] -- Up-to-date: /home/drmid/silmulation/ROS2_WS/install/dshape_gazebo/share/dshape_gazebo/environment/ament_prefix_path.dsv
+[0.097s] -- Up-to-date: /home/drmid/silmulation/ROS2_WS/install/dshape_gazebo/share/dshape_gazebo/environment/path.sh
+[0.097s] -- Up-to-date: /home/drmid/silmulation/ROS2_WS/install/dshape_gazebo/share/dshape_gazebo/environment/path.dsv
+[0.097s] -- Up-to-date: /home/drmid/silmulation/ROS2_WS/install/dshape_gazebo/share/dshape_gazebo/local_setup.bash
+[0.097s] -- Up-to-date: /home/drmid/silmulation/ROS2_WS/install/dshape_gazebo/share/dshape_gazebo/local_setup.sh
+[0.097s] -- Up-to-date: /home/drmid/silmulation/ROS2_WS/install/dshape_gazebo/share/dshape_gazebo/local_setup.zsh
+[0.097s] -- Up-to-date: /home/drmid/silmulation/ROS2_WS/install/dshape_gazebo/share/dshape_gazebo/local_setup.dsv
+[0.097s] -- Installing: /home/drmid/silmulation/ROS2_WS/install/dshape_gazebo/share/dshape_gazebo/package.dsv
+[0.097s] -- Up-to-date: /home/drmid/silmulation/ROS2_WS/install/dshape_gazebo/share/ament_index/resource_index/packages/dshape_gazebo
+[0.097s] -- Up-to-date: /home/drmid/silmulation/ROS2_WS/install/dshape_gazebo/share/dshape_gazebo/cmake/dshape_gazeboConfig.cmake
+[0.097s] -- Up-to-date: /home/drmid/silmulation/ROS2_WS/install/dshape_gazebo/share/dshape_gazebo/cmake/dshape_gazeboConfig-version.cmake
+[0.097s] -- Up-to-date: /home/drmid/silmulation/ROS2_WS/install/dshape_gazebo/share/dshape_gazebo/package.xml
+[0.117s] Invoked command in '/home/drmid/silmulation/ROS2_WS/build/dshape_gazebo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/drmid/silmulation/ROS2_WS/build/dshape_gazebo

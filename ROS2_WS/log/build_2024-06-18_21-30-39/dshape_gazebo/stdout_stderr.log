@@ -1,0 +1,27 @@
+-- Install configuration: ""
+-- Up-to-date: /home/drmid/silmulation/ROS2_WS/install/dshape_gazebo/share/dshape_gazebo//config
+-- Up-to-date: /home/drmid/silmulation/ROS2_WS/install/dshape_gazebo/share/dshape_gazebo//config/gazebo_params.yaml
+-- Up-to-date: /home/drmid/silmulation/ROS2_WS/install/dshape_gazebo/share/dshape_gazebo//config/twist_mux.yaml
+-- Up-to-date: /home/drmid/silmulation/ROS2_WS/install/dshape_gazebo/share/dshape_gazebo//launch
+-- Installing: /home/drmid/silmulation/ROS2_WS/install/dshape_gazebo/share/dshape_gazebo//launch/dshape.launch.py
+-- Up-to-date: /home/drmid/silmulation/ROS2_WS/install/dshape_gazebo/share/dshape_gazebo//launch/controller_spawner.launch.py
+-- Up-to-date: /home/drmid/silmulation/ROS2_WS/install/dshape_gazebo/share/dshape_gazebo//rviz2
+-- Up-to-date: /home/drmid/silmulation/ROS2_WS/install/dshape_gazebo/share/dshape_gazebo//rviz2/default.rviz
+-- Up-to-date: /home/drmid/silmulation/ROS2_WS/install/dshape_gazebo/share/dshape_gazebo//rviz2/display.rviz
+-- Up-to-date: /home/drmid/silmulation/ROS2_WS/install/dshape_gazebo/share/dshape_gazebo//maps
+-- Up-to-date: /home/drmid/silmulation/ROS2_WS/install/dshape_gazebo/share/dshape_gazebo//maps/gz_ros2_control.png
+-- Up-to-date: /home/drmid/silmulation/ROS2_WS/install/dshape_gazebo/share/ament_index/resource_index/package_run_dependencies/dshape_gazebo
+-- Up-to-date: /home/drmid/silmulation/ROS2_WS/install/dshape_gazebo/share/ament_index/resource_index/parent_prefix_path/dshape_gazebo
+-- Up-to-date: /home/drmid/silmulation/ROS2_WS/install/dshape_gazebo/share/dshape_gazebo/environment/ament_prefix_path.sh
+-- Up-to-date: /home/drmid/silmulation/ROS2_WS/install/dshape_gazebo/share/dshape_gazebo/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/drmid/silmulation/ROS2_WS/install/dshape_gazebo/share/dshape_gazebo/environment/path.sh
+-- Up-to-date: /home/drmid/silmulation/ROS2_WS/install/dshape_gazebo/share/dshape_gazebo/environment/path.dsv
+-- Up-to-date: /home/drmid/silmulation/ROS2_WS/install/dshape_gazebo/share/dshape_gazebo/local_setup.bash
+-- Up-to-date: /home/drmid/silmulation/ROS2_WS/install/dshape_gazebo/share/dshape_gazebo/local_setup.sh
+-- Up-to-date: /home/drmid/silmulation/ROS2_WS/install/dshape_gazebo/share/dshape_gazebo/local_setup.zsh
+-- Up-to-date: /home/drmid/silmulation/ROS2_WS/install/dshape_gazebo/share/dshape_gazebo/local_setup.dsv
+-- Up-to-date: /home/drmid/silmulation/ROS2_WS/install/dshape_gazebo/share/dshape_gazebo/package.dsv
+-- Up-to-date: /home/drmid/silmulation/ROS2_WS/install/dshape_gazebo/share/ament_index/resource_index/packages/dshape_gazebo
+-- Up-to-date: /home/drmid/silmulation/ROS2_WS/install/dshape_gazebo/share/dshape_gazebo/cmake/dshape_gazeboConfig.cmake
+-- Up-to-date: /home/drmid/silmulation/ROS2_WS/install/dshape_gazebo/share/dshape_gazebo/cmake/dshape_gazeboConfig-version.cmake
+-- Up-to-date: /home/drmid/silmulation/ROS2_WS/install/dshape_gazebo/share/dshape_gazebo/package.xml

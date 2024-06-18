@@ -1,0 +1,1 @@
+[0.015s] Invoking command in '/home/drmid/silmulation/ROS2_WS/build/dshape_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/drmid/silmulation/ROS2_WS/build/dshape_description -- -j4 -l4
